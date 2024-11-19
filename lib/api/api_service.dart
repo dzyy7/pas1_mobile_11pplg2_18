@@ -1,4 +1,3 @@
-// services/register_service.dart
 import 'package:http/http.dart' as http;
 import 'package:pas1_mobile_11pplg2_18/Models/api_model.dart';
 import 'dart:convert';
